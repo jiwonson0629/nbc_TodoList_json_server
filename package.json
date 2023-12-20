@@ -1,0 +1,15 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
